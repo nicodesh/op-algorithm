@@ -7,6 +7,6 @@ This is an implementation of Optimal Partitioning Algorithm as described here: h
 
 op(): Return a vector with the optimal changepoints.
 
-backtracking(): Return the segments to plot, based on a vector built by op()
+backtracking(): Return the segments to plot, based on a vector built by op().
 
 plot_segments(): Compute the mean of each segment and plot them.
