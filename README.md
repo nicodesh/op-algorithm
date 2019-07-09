@@ -3,7 +3,7 @@ Optimal Partitioning Algorithm Implementation
 
 This is an implementation of Optimal Partitioning Algorithm as described here: https://ieeexplore.ieee.org/abstract/document/1381461
 
-## There are two functions:
+## There are three functions in the module:
 
 op(): Return a vector with the optimal changepoints.
 
