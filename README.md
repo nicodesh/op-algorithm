@@ -1,5 +1,4 @@
-# op-algorithm
-Optimal Partitioning Algorithm Implementation
+# Optimal Partitioning Algorithm - Python Implementation
 
 This is an implementation of Optimal Partitioning Algorithm as described here: https://ieeexplore.ieee.org/abstract/document/1381461
 
